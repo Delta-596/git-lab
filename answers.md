@@ -45,3 +45,8 @@ Author: Jarrett <jl671023@ohio.edu>
 Date:   Wed Sep 13 14:26:37 2023 -0400
 
     Initial commit
+
+Answer 9: On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
