@@ -38,3 +38,8 @@ nothing to commit, working tree clean
 Answer 10: Yes they were.
 
 Answer 11: It asks for my Username and password. But it doesn't let me.
+
+Answer 12: Yes, they were.
+
+Answer 13: .  ..  .git  .gitignore  README.md
+
